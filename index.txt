@@ -2,7 +2,11 @@
 <head></head>
 <body>
 <h1>First commit</h1>
+<<<<<<< HEAD
 <h2>Second commit</h2>
 <h3>abcdefght</h3>
+=======
+<h2>Second commiy</h2>
+>>>>>>> parent of d3be082... corrected a typo
 </body>
 </html>
