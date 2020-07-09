@@ -2,6 +2,6 @@
 <head></head>
 <body>
 <h1>First commit</h1>
-<h2>Second commiy</h2>
+<h2>Second commit</h2>
 </body>
 </html>
